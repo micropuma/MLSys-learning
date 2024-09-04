@@ -13,3 +13,6 @@
 * [机器学习编译器代码生成相关 MLIR Dialect](https://www.lei.chat/zh/posts/mlir-codegen-dialects-for-machine-learning-compilers/)
 * [MLIR Linalg Dialect 以及 Patterns](https://www.lei.chat/zh/posts/mlir-linalg-dialect-and-patterns/)
 * [Codegen Dialect Overview](https://discourse.llvm.org/t/codegen-dialect-overview/2723)
+
+## Slides
+* [多面体优化](https://jonathan2251.github.io/lbt/Principle_Polyhedral.pdf)
