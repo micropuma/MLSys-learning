@@ -16,3 +16,4 @@
 
 ## Slides
 * [多面体优化](https://jonathan2251.github.io/lbt/Principle_Polyhedral.pdf)
+* [多面体优化intro](https://events.csa.iisc.ac.in/summerschool2013/slides/automatic-parallelization-introduction-polyhedral-models.pdf)
