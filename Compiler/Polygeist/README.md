@@ -76,5 +76,6 @@ The main goal is to find the **Associate iteration space** in codes. <font color
 1. [Poly的数学基础](https://events.csa.iisc.ac.in/summerschool2013/slides/automatic-parallelization-introduction-polyhedral-models.pdf)
 2. [Poly Compiler Lecture UIUC](http://polyhedral.info/)
 3. [Poly implement blog from Cornell](https://www.cs.cornell.edu/courses/cs6120/2023fa/blog/polyhedral/)
+4. [Compiler poly课程](https://www.youtube.com/watch?v=mt6pIpt5Wk0&t=2319s)
 
 
